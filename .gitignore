@@ -3,3 +3,4 @@
 .dvc/cache
 /data
 /.venv
+/models
